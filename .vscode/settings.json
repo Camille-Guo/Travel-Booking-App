@@ -1,0 +1,5 @@
+{
+    "appService.preDeployTask": "publish-release",
+    "appService.deploySubpath": "bin\\Release\\net7.0\\publish",
+    "appService.defaultWebAppToDeploy": "/subscriptions/4b69b7e8-848b-4d91-a233-3919f7da8015/appservices/subscriptions/4b69b7e8-848b-4d91-a233-3919f7da8015/resourceGroups/TravelBooking/providers/Microsoft.Web/sites/TravelBooking"
+}

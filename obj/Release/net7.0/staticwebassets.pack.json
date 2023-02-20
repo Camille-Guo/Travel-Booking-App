@@ -1,0 +1,321 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Full Stack Developer\\(Course 15)Application Development II\\Project\\AppDev2Project\\TravelBooking\\obj\\Release\\net7.0\\scopedcss\\projectbundle\\TravelBooking.bundle.scp.css",
+      "PackagePath": "staticwebassets\\TravelBooking.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\Full Stack Developer\\(Course 15)Application Development II\\Project\\AppDev2Project\\TravelBooking\\wwwroot\\Images\\America.jfif",
+      "PackagePath": "staticwebassets\\Images\\America.jfif"
+    },
+    {
+      "Id": "D:\\Full Stack Developer\\(Course 15)Application Development II\\Project\\AppDev2Project\\TravelBooking\\wwwroot\\Images\\LAV.png",
+      "PackagePath": "staticwebassets\\Images\\LAV.png"
+    },
+    {
+      "Id": "D:\\Full Stack Developer\\(Course 15)Application Development II\\Project\\AppDev2Project\\TravelBooking\\wwwroot\\Images\\LAX.png",
+      "PackagePath": "staticwebassets\\Images\\LAX.png"
+    },
+    {
+      "Id": "D:\\Full Stack Developer\\(Course 15)Application Development II\\Project\\AppDev2Project\\TravelBooking\\wwwroot\\Images\\MCO.png",
+      "PackagePath": "staticwebassets\\Images\\MCO.png"
+    },
+    {
+      "Id": "D:\\Full Stack Developer\\(Course 15)Application Development II\\Project\\AppDev2Project\\TravelBooking\\wwwroot\\Images\\NewZiland.jfif",
+      "PackagePath": "staticwebassets\\Images\\NewZiland.jfif"
+    },
+    {
+      "Id": "D:\\Full Stack Developer\\(Course 15)Application Development II\\Project\\AppDev2Project\\TravelBooking\\wwwroot\\Images\\PVG.png",
+      "PackagePath": "staticwebassets\\Images\\PVG.png"
+    },
+    {
+      "Id": "D:\\Full Stack Developer\\(Course 15)Application Development II\\Project\\AppDev2Project\\TravelBooking\\wwwroot\\Images\\SEA.jpg",
+      "PackagePath": "staticwebassets\\Images\\SEA.jpg"
+    },
+    {
+      "Id": "D:\\Full Stack Developer\\(Course 15)Application Development II\\Project\\AppDev2Project\\TravelBooking\\wwwroot\\Images\\Thailand.jpg",
+      "PackagePath": "staticwebassets\\Images\\Thailand.jpg"
+    },
+    {
+      "Id": "D:\\Full Stack Developer\\(Course 15)Application Development II\\Project\\AppDev2Project\\TravelBooking\\wwwroot\\Images\\YUL.png",
+      "PackagePath": "staticwebassets\\Images\\YUL.png"
+    },
+    {
+      "Id": "D:\\Full Stack Developer\\(Course 15)Application Development II\\Project\\AppDev2Project\\TravelBooking\\wwwroot\\Images\\YVR.png",
+      "PackagePath": "staticwebassets\\Images\\YVR.png"
+    },
+    {
+      "Id": "D:\\Full Stack Developer\\(Course 15)Application Development II\\Project\\AppDev2Project\\TravelBooking\\wwwroot\\Images\\YYZ.jpg",
+      "PackagePath": "staticwebassets\\Images\\YYZ.jpg"
+    },
+    {
+      "Id": "D:\\Full Stack Developer\\(Course 15)Application Development II\\Project\\AppDev2Project\\TravelBooking\\wwwroot\\Images\\greatwall.jpg",
+      "PackagePath": "staticwebassets\\Images\\greatwall.jpg"
+    },
+    {
+      "Id": "D:\\Full Stack Developer\\(Course 15)Application Development II\\Project\\AppDev2Project\\TravelBooking\\wwwroot\\Images\\mexico.jfif",
+      "PackagePath": "staticwebassets\\Images\\mexico.jfif"
+    },
+    {
+      "Id": "D:\\Full Stack Developer\\(Course 15)Application Development II\\Project\\AppDev2Project\\TravelBooking\\wwwroot\\Images\\sakura.jpg",
+      "PackagePath": "staticwebassets\\Images\\sakura.jpg"
+    },
+    {
+      "Id": "D:\\Full Stack Developer\\(Course 15)Application Development II\\Project\\AppDev2Project\\TravelBooking\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\Full Stack Developer\\(Course 15)Application Development II\\Project\\AppDev2Project\\TravelBooking\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\Full Stack Developer\\(Course 15)Application Development II\\Project\\AppDev2Project\\TravelBooking\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\Full Stack Developer\\(Course 15)Application Development II\\Project\\AppDev2Project\\TravelBooking\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\Full Stack Developer\\(Course 15)Application Development II\\Project\\AppDev2Project\\TravelBooking\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\Full Stack Developer\\(Course 15)Application Development II\\Project\\AppDev2Project\\TravelBooking\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\Full Stack Developer\\(Course 15)Application Development II\\Project\\AppDev2Project\\TravelBooking\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\Full Stack Developer\\(Course 15)Application Development II\\Project\\AppDev2Project\\TravelBooking\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\Full Stack Developer\\(Course 15)Application Development II\\Project\\AppDev2Project\\TravelBooking\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\Full Stack Developer\\(Course 15)Application Development II\\Project\\AppDev2Project\\TravelBooking\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Full Stack Developer\\(Course 15)Application Development II\\Project\\AppDev2Project\\TravelBooking\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Full Stack Developer\\(Course 15)Application Development II\\Project\\AppDev2Project\\TravelBooking\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Full Stack Developer\\(Course 15)Application Development II\\Project\\AppDev2Project\\TravelBooking\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\Full Stack Developer\\(Course 15)Application Development II\\Project\\AppDev2Project\\TravelBooking\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\Full Stack Developer\\(Course 15)Application Development II\\Project\\AppDev2Project\\TravelBooking\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\Full Stack Developer\\(Course 15)Application Development II\\Project\\AppDev2Project\\TravelBooking\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\Full Stack Developer\\(Course 15)Application Development II\\Project\\AppDev2Project\\TravelBooking\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\Full Stack Developer\\(Course 15)Application Development II\\Project\\AppDev2Project\\TravelBooking\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Full Stack Developer\\(Course 15)Application Development II\\Project\\AppDev2Project\\TravelBooking\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Full Stack Developer\\(Course 15)Application Development II\\Project\\AppDev2Project\\TravelBooking\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Full Stack Developer\\(Course 15)Application Development II\\Project\\AppDev2Project\\TravelBooking\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\Full Stack Developer\\(Course 15)Application Development II\\Project\\AppDev2Project\\TravelBooking\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\Full Stack Developer\\(Course 15)Application Development II\\Project\\AppDev2Project\\TravelBooking\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\Full Stack Developer\\(Course 15)Application Development II\\Project\\AppDev2Project\\TravelBooking\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\Full Stack Developer\\(Course 15)Application Development II\\Project\\AppDev2Project\\TravelBooking\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\Full Stack Developer\\(Course 15)Application Development II\\Project\\AppDev2Project\\TravelBooking\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Full Stack Developer\\(Course 15)Application Development II\\Project\\AppDev2Project\\TravelBooking\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Full Stack Developer\\(Course 15)Application Development II\\Project\\AppDev2Project\\TravelBooking\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Full Stack Developer\\(Course 15)Application Development II\\Project\\AppDev2Project\\TravelBooking\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\Full Stack Developer\\(Course 15)Application Development II\\Project\\AppDev2Project\\TravelBooking\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\Full Stack Developer\\(Course 15)Application Development II\\Project\\AppDev2Project\\TravelBooking\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\Full Stack Developer\\(Course 15)Application Development II\\Project\\AppDev2Project\\TravelBooking\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\Full Stack Developer\\(Course 15)Application Development II\\Project\\AppDev2Project\\TravelBooking\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\Full Stack Developer\\(Course 15)Application Development II\\Project\\AppDev2Project\\TravelBooking\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Full Stack Developer\\(Course 15)Application Development II\\Project\\AppDev2Project\\TravelBooking\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Full Stack Developer\\(Course 15)Application Development II\\Project\\AppDev2Project\\TravelBooking\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Full Stack Developer\\(Course 15)Application Development II\\Project\\AppDev2Project\\TravelBooking\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\Full Stack Developer\\(Course 15)Application Development II\\Project\\AppDev2Project\\TravelBooking\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\Full Stack Developer\\(Course 15)Application Development II\\Project\\AppDev2Project\\TravelBooking\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\Full Stack Developer\\(Course 15)Application Development II\\Project\\AppDev2Project\\TravelBooking\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\Full Stack Developer\\(Course 15)Application Development II\\Project\\AppDev2Project\\TravelBooking\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\Full Stack Developer\\(Course 15)Application Development II\\Project\\AppDev2Project\\TravelBooking\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\Full Stack Developer\\(Course 15)Application Development II\\Project\\AppDev2Project\\TravelBooking\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\Full Stack Developer\\(Course 15)Application Development II\\Project\\AppDev2Project\\TravelBooking\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\Full Stack Developer\\(Course 15)Application Development II\\Project\\AppDev2Project\\TravelBooking\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\Full Stack Developer\\(Course 15)Application Development II\\Project\\AppDev2Project\\TravelBooking\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\Full Stack Developer\\(Course 15)Application Development II\\Project\\AppDev2Project\\TravelBooking\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\Full Stack Developer\\(Course 15)Application Development II\\Project\\AppDev2Project\\TravelBooking\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\Full Stack Developer\\(Course 15)Application Development II\\Project\\AppDev2Project\\TravelBooking\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Full Stack Developer\\(Course 15)Application Development II\\Project\\AppDev2Project\\TravelBooking\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\Full Stack Developer\\(Course 15)Application Development II\\Project\\AppDev2Project\\TravelBooking\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\Full Stack Developer\\(Course 15)Application Development II\\Project\\AppDev2Project\\TravelBooking\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\Full Stack Developer\\(Course 15)Application Development II\\Project\\AppDev2Project\\TravelBooking\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\Full Stack Developer\\(Course 15)Application Development II\\Project\\AppDev2Project\\TravelBooking\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\Full Stack Developer\\(Course 15)Application Development II\\Project\\AppDev2Project\\TravelBooking\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\Full Stack Developer\\(Course 15)Application Development II\\Project\\AppDev2Project\\TravelBooking\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\Full Stack Developer\\(Course 15)Application Development II\\Project\\AppDev2Project\\TravelBooking\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Full Stack Developer\\(Course 15)Application Development II\\Project\\AppDev2Project\\TravelBooking\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\Full Stack Developer\\(Course 15)Application Development II\\Project\\AppDev2Project\\TravelBooking\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\Full Stack Developer\\(Course 15)Application Development II\\Project\\AppDev2Project\\TravelBooking\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Release\\net7.0\\staticwebassets\\msbuild.TravelBooking.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Release\\net7.0\\staticwebassets\\msbuild.build.TravelBooking.props",
+      "PackagePath": "build\\TravelBooking.props"
+    },
+    {
+      "Id": "obj\\Release\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.TravelBooking.props",
+      "PackagePath": "buildMultiTargeting\\TravelBooking.props"
+    },
+    {
+      "Id": "obj\\Release\\net7.0\\staticwebassets\\msbuild.buildTransitive.TravelBooking.props",
+      "PackagePath": "buildTransitive\\TravelBooking.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

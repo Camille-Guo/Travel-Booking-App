@@ -1,0 +1,137 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = TravelBooking_-_Backup
+build_property.RootNamespace = TravelBooking_-_Backup
+build_property.ProjectDir = d:\Full Stack Developer\(Course 15)Application Development II\Project\AppDev2Project\TravelBooking\
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = d:\Full Stack Developer\(Course 15)Application Development II\Project\AppDev2Project\TravelBooking
+build_property._RazorSourceGeneratorDebug = 
+
+[d:/Full Stack Developer/(Course 15)Application Development II/Project/AppDev2Project/TravelBooking/Views/Account/AccessDenied.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxBY2Nlc3NEZW5pZWQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/Full Stack Developer/(Course 15)Application Development II/Project/AppDev2Project/TravelBooking/Views/Account/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxMb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/Full Stack Developer/(Course 15)Application Development II/Project/AppDev2Project/TravelBooking/Views/Account/Register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxSZWdpc3Rlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/Full Stack Developer/(Course 15)Application Development II/Project/AppDev2Project/TravelBooking/Views/Account/RegisterCompleted.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxSZWdpc3RlckNvbXBsZXRlZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/Full Stack Developer/(Course 15)Application Development II/Project/AppDev2Project/TravelBooking/Views/AdminAirport/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5BaXJwb3J0XENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/Full Stack Developer/(Course 15)Application Development II/Project/AppDev2Project/TravelBooking/Views/AdminAirport/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5BaXJwb3J0XERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/Full Stack Developer/(Course 15)Application Development II/Project/AppDev2Project/TravelBooking/Views/AdminAirport/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5BaXJwb3J0XERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/Full Stack Developer/(Course 15)Application Development II/Project/AppDev2Project/TravelBooking/Views/AdminAirport/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5BaXJwb3J0XEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/Full Stack Developer/(Course 15)Application Development II/Project/AppDev2Project/TravelBooking/Views/AdminAirport/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5BaXJwb3J0XEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/Full Stack Developer/(Course 15)Application Development II/Project/AppDev2Project/TravelBooking/Views/AdminFlight/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5GbGlnaHRcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/Full Stack Developer/(Course 15)Application Development II/Project/AppDev2Project/TravelBooking/Views/AdminFlight/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5GbGlnaHRcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/Full Stack Developer/(Course 15)Application Development II/Project/AppDev2Project/TravelBooking/Views/AdminFlight/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5GbGlnaHRcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/Full Stack Developer/(Course 15)Application Development II/Project/AppDev2Project/TravelBooking/Views/AdminFlight/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5GbGlnaHRcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/Full Stack Developer/(Course 15)Application Development II/Project/AppDev2Project/TravelBooking/Views/Cart/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FydFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/Full Stack Developer/(Course 15)Application Development II/Project/AppDev2Project/TravelBooking/Views/Checkout/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2hlY2tvdXRcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/Full Stack Developer/(Course 15)Application Development II/Project/AppDev2Project/TravelBooking/Views/Checkout/Success.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2hlY2tvdXRcU3VjY2Vzcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/Full Stack Developer/(Course 15)Application Development II/Project/AppDev2Project/TravelBooking/Views/Customer/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/Full Stack Developer/(Course 15)Application Development II/Project/AppDev2Project/TravelBooking/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/Full Stack Developer/(Course 15)Application Development II/Project/AppDev2Project/TravelBooking/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/Full Stack Developer/(Course 15)Application Development II/Project/AppDev2Project/TravelBooking/Views/Payment/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGF5bWVudFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/Full Stack Developer/(Course 15)Application Development II/Project/AppDev2Project/TravelBooking/Views/Profile/CustomerList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZmlsZVxDdXN0b21lckxpc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/Full Stack Developer/(Course 15)Application Development II/Project/AppDev2Project/TravelBooking/Views/Profile/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZmlsZVxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/Full Stack Developer/(Course 15)Application Development II/Project/AppDev2Project/TravelBooking/Views/Profile/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZmlsZVxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/Full Stack Developer/(Course 15)Application Development II/Project/AppDev2Project/TravelBooking/Views/Profile/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZmlsZVxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/Full Stack Developer/(Course 15)Application Development II/Project/AppDev2Project/TravelBooking/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/Full Stack Developer/(Course 15)Application Development II/Project/AppDev2Project/TravelBooking/Views/Shared/_Identity.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9JZGVudGl0eS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/Full Stack Developer/(Course 15)Application Development II/Project/AppDev2Project/TravelBooking/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/Full Stack Developer/(Course 15)Application Development II/Project/AppDev2Project/TravelBooking/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/Full Stack Developer/(Course 15)Application Development II/Project/AppDev2Project/TravelBooking/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/Full Stack Developer/(Course 15)Application Development II/Project/AppDev2Project/TravelBooking/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-v03zjecnkd
