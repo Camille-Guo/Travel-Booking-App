@@ -203,7 +203,7 @@ namespace TravelBooking.Controllers
                 var credential = new System.Net.NetworkCredential
                 {
                     UserName = "zibin.guo13@gmail.com",  // replace with valid value
-                    Password = "ovcycivgqumjoaxz"  // replace with valid value (SMTP generated password)
+                    Password = "******"  // replace with valid value (SMTP generated password)
                 };
                 client.Credentials = credential;
                 MailMessage mailMessage = new MailMessage();
